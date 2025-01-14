@@ -1,0 +1,5 @@
+Player Name: tr
+Difficulty: hard
+Result:  won the game 
+Final Score: 90
+--------------------------------------
