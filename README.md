@@ -8,5 +8,5 @@
 💡 This project not only highlights my proficiency in C++ 💻🎓 but also demonstrates my ability to work within constraints 🧱 and deliver functional results ✅🔥. It serves as an excellent example of how creativity 🌟 and problem-solving 🛠️ can be applied to develop an enjoyable game, even with limited resources.
 
 ✨ I’m thrilled to explore more opportunities 🚀🚪 to enhance my programming skills and create even more dynamic, visually appealing projects in the future! 🌈📈
-
-**© 2025 MUHAMMAD WALEED | All rights reserved**
+<br><br>
+<p align="center"> © 2025 MUHAMMAD WALEED | All rights reserved </p>
