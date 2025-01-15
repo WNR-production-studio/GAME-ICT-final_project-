@@ -9,4 +9,4 @@
 
 ✨ I’m thrilled to explore more opportunities 🚀🚪 to enhance my programming skills and create even more dynamic, visually appealing projects in the future! 🌈📈
 <br><br>
-<p align="center"> © 2025 MUHAMMAD WALEED | All rights reserved </p>
+<h6><p align="center"> © 2025 MUHAMMAD WALEED | All rights reserved </h6> </p>
